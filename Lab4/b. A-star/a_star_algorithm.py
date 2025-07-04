@@ -73,6 +73,6 @@ print("A* Search Path: ", path)
 
 
 #OUTPUT:
-"""
+'''
 A* Search Path:  ['A', 'C', 'G']
-"""
+'''
