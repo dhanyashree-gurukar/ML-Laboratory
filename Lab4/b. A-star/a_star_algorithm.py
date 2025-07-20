@@ -66,7 +66,7 @@ cost = {
 }
 
 start = 'A'
-goal = 'G'
+goal = 'D'
 
 path = a_star_algorithm(graph, start, goal, heuristic, cost)
 print("A* Search Path: ", path)
@@ -74,5 +74,5 @@ print("A* Search Path: ", path)
 
 #OUTPUT:
 '''
-A* Search Path:  ['A', 'C', 'G']
+A* Search Path:  ['A', 'C', 'D']
 '''
