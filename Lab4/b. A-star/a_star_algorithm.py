@@ -74,5 +74,5 @@ print("A* Search Path: ", path)
 
 #OUTPUT:
 '''
-A* Search Path:  ['A', 'C', 'D']
+A* Search Path:  ['A', 'B', 'D']
 '''
